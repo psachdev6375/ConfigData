@@ -1,4 +1,4 @@
 #. lab-3-client.yml
 
 lucky-word: Indian
-eureka-url: http://localhost:8011/
+eureka-url: http://localhost:8011/eureka
