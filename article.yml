@@ -2,4 +2,4 @@
 
 type: article
 words: a,the
-
+eureka-url: http://localhost:8010/eureka/

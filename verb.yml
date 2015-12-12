@@ -2,3 +2,4 @@
 
 type: verb
 words: ran,knew,had,saw,bought
+eureka-url: http://localhost:8010/eureka/

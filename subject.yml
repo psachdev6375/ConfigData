@@ -1,5 +1,5 @@
 #word-server.yml
 
-server-port: ${PORT:${SERVER_PORT:0}}
-
+type: subject
+words: I,You,He,She,It
 eureka-url: http://localhost:8010/eureka/

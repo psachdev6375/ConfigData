@@ -2,3 +2,4 @@
 
 type: adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
+eureka-url: http://localhost:8010/eureka/
