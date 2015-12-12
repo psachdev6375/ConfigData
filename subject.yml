@@ -1,5 +1,4 @@
 #subject.yml
 
-type: subject
 words: I,You,He,She,It
 eureka-url: http://localhost:8010/eureka/
