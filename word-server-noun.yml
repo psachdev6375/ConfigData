@@ -1,4 +1,5 @@
 #word-server.yml
 
+type: noun
 words: boat,book,vote,seat,backpack,partition,groundhog
 

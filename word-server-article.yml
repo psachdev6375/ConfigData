@@ -1,4 +1,5 @@
 #word-server.yml
 
+type: article
 words: a,the
 
