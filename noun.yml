@@ -1,5 +1,5 @@
 #noun.yml
 
 word-server: 
-  words: p-boat,p-book,p-vote,p-seat,p-backpack,p-partition,p-groundhog
+  words: q-boat,q-book,q-vote,q-seat,q-backpack,q-partition,q-groundhog
 eureka-url: http://localhost:8010/eureka/,http://localhost:8011/eureka/
