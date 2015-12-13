@@ -1,4 +1,5 @@
 #noun.yml
 
-words: boat,book,vote,seat,backpack,partition,groundhog
+word-server: 
+  words: boat,book,vote,seat,backpack,partition,groundhog
 eureka-url: http://localhost:8010/eureka/,http://localhost:8011/eureka/

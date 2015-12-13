@@ -1,4 +1,5 @@
 #subject.yml
 
-words: I,You,He,She,It
+word-server: 
+  words: I,You,He,She,It
 eureka-url: http://localhost:8010/eureka/,http://localhost:8011/eureka/
